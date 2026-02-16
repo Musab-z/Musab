@@ -16,7 +16,7 @@ Here are the technologies and concepts I work with:
 | **Core Concepts** | Discrete Mathematics • Data Structures • Algorithms • Object-Oriented Programming (OOP) |
 | **Hardware & Logic** | Digital Logic Design (74xx Series) • Circuit Analysis • 7-Segment Displays |
 | **Tools & Dev** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) • Pandas (Data Analysis) |
-| **Physics** | Kinematics • Projectile Motion • Force Analysis |
+
 
 ---
 
@@ -24,7 +24,7 @@ Here are the technologies and concepts I work with:
 
 - **Digital Logic Lab:** Building practical circuits using 74xx series ICs and 7-segment displays to apply theoretical concepts.
 - **C++ Mastery:** Deepening understanding of memory management, pointers, and compilation processes (including Dockerized environments).
-- **Mathematical Computing:** Applying Discrete Math concepts (Induction, Recursion, Graph Theory) to solve computational problems.
+
 
 ---
 
