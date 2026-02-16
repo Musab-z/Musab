@@ -13,8 +13,6 @@ Here are the technologies and concepts I work with:
 | **Domain** | **Technologies & Concepts** |
 | :--- | :--- |
 | **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| **Core Concepts** | Discrete Mathematics • Data Structures • Algorithms • Object-Oriented Programming (OOP) |
-| **Hardware & Logic** | Digital Logic Design (74xx Series) • Circuit Analysis • 7-Segment Displays |
 | **Tools & Dev** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) • Pandas (Data Analysis) |
 
 
