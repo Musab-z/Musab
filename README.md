@@ -31,8 +31,8 @@ Here are the technologies and concepts I work with:
 ### 📫 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Musab Al-Zahrani" height="30" width="40" /></a>
-<a href="mailto:YOUR-EMAIL@EXAMPLE.COM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/musab-alzahrani-46b773379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Musab Al-Zahrani" height="30" width="40" /></a>
+<a href="mailto:m594510119@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
