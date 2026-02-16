@@ -38,5 +38,5 @@ Here are the technologies and concepts I work with:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Musab's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musab-z&show_icons=true&theme=radical&hide_border=true" alt="Musab's Github Stats" />
 </p>
